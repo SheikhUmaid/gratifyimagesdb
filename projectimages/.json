@@ -1,0 +1,22 @@
+[
+  {
+    "title": "CompsNCare! Don't Worry about your Electronics",
+    "img": "https://github.com/SheikhUmaid/gratifyimagesdb/blob/main/projectimages/ComsNCare.jpeg?raw=true",
+    "tags": ["Mobile", "IOS", "Web"]
+  },
+  {
+    "title": "VelocyTaxz! Taxi Booking",
+    "img": "https://raw.githubusercontent.com/SheikhUmaid/gratifyimagesdb/main/projectimages/VelocyTaxz.png",
+    "tags": ["Mobile", "IOS", "Web"]
+  },
+  {
+    "title": "Suruchi! ",
+    "img": "https://raw.githubusercontent.com/SheikhUmaid/gratifyimagesdb/refs/heads/main/projectimages/Suruchi.png",
+    "tags": ["Mobile", "IOS", "E-Com"]
+  },
+  {
+    "title": "FocusFlow",
+    "img": "https://raw.githubusercontent.com/SheikhUmaid/gratifyimagesdb/main/projectimages/FocusFlow.png",
+    "tags": ["Web App", "Collaboration", "Productivity"]
+  }
+]
