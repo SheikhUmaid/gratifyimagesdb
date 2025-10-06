@@ -18,5 +18,10 @@
     "title": "FocusFlow",
     "img": "https://raw.githubusercontent.com/SheikhUmaid/gratifyimagesdb/main/projectimages/FocusFlow.png",
     "tags": ["Web App", "Collaboration", "Productivity"]
+  },
+  {
+    "title": "Qwerty",
+    "img": "https://raw.githubusercontent.com/SheikhUmaid/gratifyimagesdb/main/projectimages/Qwerty.png",
+    "tags": ["Web App", "University", "Productivity"]
   }
 ]
